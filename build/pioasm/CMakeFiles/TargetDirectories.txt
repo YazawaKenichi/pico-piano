@@ -1,3 +1,0 @@
-/home/yazawa/pico/pico-piano/build/pioasm/CMakeFiles/pioasm.dir
-/home/yazawa/pico/pico-piano/build/pioasm/CMakeFiles/edit_cache.dir
-/home/yazawa/pico/pico-piano/build/pioasm/CMakeFiles/rebuild_cache.dir
