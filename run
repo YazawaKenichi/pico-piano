@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ./build && cmake .. && make -j4 && test -d "/media/$UESR/RPI-RP2" && cp ./src/*.uf2 /media/$USER/RPI-RP2 && cd ../
+
